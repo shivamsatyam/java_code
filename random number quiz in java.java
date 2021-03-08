@@ -9,7 +9,7 @@ class Main{
 		
 			Random rand = new Random();
 			// int random_number = rand.nextInt(11); // for printing the random number
-			System.out.printf("%d \n",random_number);
+			// System.out.printf("%d \n",random_number);
 		for(int i=0;i<10;i++){
 
 			int number = s.nextInt();
